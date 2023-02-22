@@ -21,7 +21,7 @@ h1 {
 .container {
   align-content: center;
   background-color: rgb(66, 66, 69);
-  border: 0.5em solid rgb(0, 222, 4);
+  border: 0.5em solid rgb(13, 236, 110);
   border-radius: 8vmax;
   display: flex;
   height: fit-content;
